@@ -1,0 +1,11 @@
+/snap/clion/209/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/leandre/Info/4a/TP_IG/robox/Squelette/sampleProject -B /home/leandre/Info/4a/TP_IG/robox/Squelette/sampleProject/cmake-build-debug
+CMake Error at CMakeLists.txt:3 (message):
+  Dear student, you just tried to launch cmake in another directory than
+  build/.  We encourage you to be more careful in the future and NEVER DO
+  THAT AGAIN.  Now the build system will stop, and you will remove
+  ../CMakeCache.txt and ../CMakefiles/.
+
+  --Your 3D Computer Graphics teachers.
+
+
+-- Configuring incomplete, errors occurred!

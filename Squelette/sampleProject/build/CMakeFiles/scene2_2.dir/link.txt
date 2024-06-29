@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++0x -fopenmp -g -DDEBUG -rdynamic CMakeFiles/scene2_2.dir/scene2_2.cpp.o -o scene2_2  ../../sfmlGraphicsPipeline/build/libSFML_GRAPHICS_PIPELINE.a -lsfml-system -lsfml-window -lsfml-graphics -lGLEW ../../sfmlGraphicsPipeline/extlib/freetype-2.5.5/build/libfreetype.a ../../sfmlGraphicsPipeline/extlib/tinyobjloader/build/libtinyobjloader.a -lGL -lGLU -lm 
